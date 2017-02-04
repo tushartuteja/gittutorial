@@ -1,6 +1,13 @@
 <<<<<<< HEAD
 Hello World!
 =======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Hello World
+hello vidit
+=======
+=======
+>>>>>>> da37c18a61e255dfc1ca464b99ee094ca99657f5
 Hello World!
 hello vidit!
 
@@ -13,3 +20,4 @@ hello vidit!
 :)
 :)
 :)
+>>>>>>> 9b569f14d9e9aa8782019bc5b30b6ec9ceb0e43c
