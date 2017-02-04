@@ -1,5 +1,20 @@
 <<<<<<< HEAD
 Hello World!
 =======
+<<<<<<< HEAD
 Hello World
 hello vidit
+=======
+Hello World!
+hello vidit!
+
+>>>>>>> 8f6e52de2c2eea01aea1fc8c9b5dcebaaff29fd3
+
+:)
+:)
+:)
+:)
+:)
+:)
+:)
+>>>>>>> 9b569f14d9e9aa8782019bc5b30b6ec9ceb0e43c
